@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
 interface Props {}
 
 export default function Index(props: Props) {
-  return <div>Index</div>;
+  return <div>Index</div>
 }
